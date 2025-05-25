@@ -13,13 +13,8 @@ Python supports various built-in data types that you can use to store and manipu
   range: Represents a range of numbers and is used primarily in for loops.
 
 4. Mapping Type:
-  dict: A collection of key-value pairs, also known as an associative array or hash map.
-  student = {
-    "name": "John Doe",
-    "age": 25,
-    "major": "Computer Science",
-    "gpa": 3.7
-}
+  dict: A collection of key-value pairs, also known as an associative array or hash map. (eg., {"name": "John Doe", "age": 25,})
+
 
 5. Set Types:
   set: An unordered collection of unique elements.
