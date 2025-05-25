@@ -14,6 +14,12 @@ Python supports various built-in data types that you can use to store and manipu
 
 4. Mapping Type:
   dict: A collection of key-value pairs, also known as an associative array or hash map.
+  student = {
+    "name": "John Doe",
+    "age": 25,
+    "major": "Computer Science",
+    "gpa": 3.7
+}
 
 5. Set Types:
   set: An unordered collection of unique elements.
