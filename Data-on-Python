@@ -1,0 +1,33 @@
+Python supports various built-in data types that you can use to store and manipulate data in your programs. Here's a summary of the main data types in Python:
+1. Numeric Types:
+  int: Represents whole numbers, both positive and negative (eg., 1,2,50,-100).
+  float: Represents real numbers (numbers with a decimal point) (eg., 1.55).
+  complex: Represents complex numbers with real and imaginary parts (eg., a = 3 + 2j).
+
+2. Boolean Type:
+  bool: Represents either a True or False value.
+
+3. Sequence Types:
+  list: An ordered collection of elements, indexed by integers (eg.,  [1, 2, 3, 4])
+  tuple: An ordered collection of elements, similar to a list, but immutable (eg.,  (1, 2, 3, 4)).
+  range: Represents a range of numbers and is used primarily in for loops.
+
+4. Mapping Type:
+  dict: A collection of key-value pairs, also known as an associative array or hash map. (eg., {"name": "John Doe", "age": 25,})
+
+
+5. Set Types:
+  set: An unordered collection of unique elements.
+  frozenset: An immutable version of a set.
+
+6. Text Sequence Type:
+  str: Represents a string of characters.
+
+7. Binary Types:
+  bytes: Represents an immutable sequence of bytes.
+  bytearray: Similar to bytes, but mutable.
+  memoryview: Allows accessing the internal data of an object that supports the buffer protocol.
+
+8. None Type:
+  None: Represents the absence of a value or null value.
+  These are the primary built-in data types in Python, but you can also define custom data types using classes and other Python features.
